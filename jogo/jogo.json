@@ -1,0 +1,14 @@
+{
+  "nome": "Medal of Honor: European Assault",
+  "serial": "SLES-53332",
+  "elf": "MOH4\\MOH4RDVD.ELF",
+  "cd_root": "",
+  "exe": "moh-ea.exe",
+  "iso_sha1": [
+    "e083514fd73581daf2ccfecafaf59866964a14af"
+  ],
+  "elf_sha1": [
+    "796d2769e4fdeaf8aa8e3b9d0414b0b3656dc9eb"
+  ],
+  "versao": "europeia, SLES-53332"
+}

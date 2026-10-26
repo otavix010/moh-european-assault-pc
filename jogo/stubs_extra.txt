@@ -1,0 +1,2 @@
+ret0@0x00471798  # instalador do remendo de kernel da SDK: copia codigo para 0x80075000 (kCopy) e aponta as syscalls 0x5b/0x55-0x59 para la; esse codigo nao existe traduzido e a thread morria
+sceCdReadDvdDualInfo@0x0047D6E0  # stub novo do runtime (o analisador rodou antes de ele existir)
